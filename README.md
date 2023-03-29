@@ -28,7 +28,7 @@ You can create a branch (for a PR) in two ways:
 
 ### Commit style
 
-It was agreed upon to use imperative present-tense commit messages.  
+It was agreed upon to use imperative present-tense commi t messages.  
 Example: Instead of
 
 > Added new bugs so we do not run out of work
