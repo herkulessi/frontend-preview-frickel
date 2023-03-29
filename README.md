@@ -14,7 +14,7 @@ You can create a branch (for a PR) in two ways:
 
 - By Forking this repo with the `Fork` button on the top of the page.
 - By [Getting write access to this repo](#getting-write-access)
-
+ 
 ### Implementing changes
 
 1. Create a new branch with a descriptive name based on `main`
