@@ -20,7 +20,7 @@ You can create a branch (for a PR) in two ways:
 1. Create a new branch with a descriptive name based on `main`
 2. Make your change(s)
 3. Publish your branch in your fork (or this repo if you have write access)
-4. [Create a pull request](https://github.com/mensatt/mensatt-frontend/compare)
+4. [Create a pull request](https://git hub.com/mensatt/mensatt-frontend/compare)
 5. Ensure all checks are passing
    > Note: You probably need to make changes to accomplish this
 6. Once all checks are passing, request a review from someone with write access
