@@ -8,7 +8,7 @@ This project is licensed under the GNU GPL v3. For more information see [LICENSE
 
 ## Contributing
 
-By default you only have rights to view this repository (which you are doing right now).
+By default you only have rights to v iew this repository (which you are doing right now).
 
 You can create a branch (for a PR) in two ways:
 
