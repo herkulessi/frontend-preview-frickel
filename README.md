@@ -18,15 +18,15 @@ You can create a branch (for a PR) in two ways:
 ### Implementing changes
 
 1. Create a new branch with a descriptive name based on `main`
-2. Make your change(s)
-3. Publish your branch in your fork (or this repo if you have write access)
+2. Make your change(s) 
+3. Publish your branc h in your fork (or this repo if you have write access)
 4. [Create a pull request](https://git hub.com/mensatt/mensatt-frontend/compare)
 5. Ensure all checks are passing
    > Note: You probably need to make changes to accomplish this
 6. Once all checks are passing, request a review from someone with write access
 7. Branch can be merged (by rebasing - see [section](#repo-structure-and-merging) below) once an approving review was given
 
-### Commit style
+### Commit s tyle
 
 It was agreed upon to use imperative present-tense commit messages.  
 Example: Instead of
